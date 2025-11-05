@@ -214,4 +214,3 @@ A robust, open-source stack ensures reproducibility and scalability. Core depend
 - **Extensibility**: Add filters (e.g., diversity via location/gender proxies); integrate LLMs for JD generation.
 - **Limitations & Next Steps**: No real-time updates (static pool); future: LinkedIn API integration, multi-modal (e.g., video skills).
 
-This approach positions the system as a production-ready foundation for AI-driven HR tech, blending accessibility with sophistication. For code deep-dive, refer to the notebook.
